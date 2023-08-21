@@ -1,0 +1,15 @@
+﻿  main.cpp
+K:\GIT\DLLMain\src\DLLMain\main.cpp(40,11): error C2144: 구문 오류: void'은(는) ';' 다음에 와야 합니다.
+K:\GIT\DLLMain\src\DLLMain\main.cpp(40,16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+K:\GIT\DLLMain\src\DLLMain\main.cpp(41,11): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+K:\GIT\DLLMain\src\DLLMain\main.cpp(41,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+K:\GIT\DLLMain\src\DLLMain\main.cpp(41,1): error C2086: 'int DllExport': 재정의
+K:\GIT\DLLMain\src\DLLMain\main.cpp(40,1): message : 'DllExport' 선언을 참조하십시오.
+K:\GIT\DLLMain\src\DLLMain\main.cpp(42,11): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+K:\GIT\DLLMain\src\DLLMain\main.cpp(42,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+K:\GIT\DLLMain\src\DLLMain\main.cpp(42,1): error C2086: 'int DllExport': 재정의
+K:\GIT\DLLMain\src\DLLMain\main.cpp(40,1): message : 'DllExport' 선언을 참조하십시오.
+K:\GIT\DLLMain\src\DLLMain\main.cpp(43,11): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+K:\GIT\DLLMain\src\DLLMain\main.cpp(43,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+K:\GIT\DLLMain\src\DLLMain\main.cpp(43,1): error C2086: 'int DllExport': 재정의
+K:\GIT\DLLMain\src\DLLMain\main.cpp(40,1): message : 'DllExport' 선언을 참조하십시오.
